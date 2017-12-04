@@ -1,0 +1,15 @@
+html{
+  font-family: Helvetica, sans-serif;
+}
+
+h1,h2{
+  color: DarkGreen;
+}
+
+.beaches{
+  color: SeaGreen;
+}
+
+a{
+  color: Orange;
+}
